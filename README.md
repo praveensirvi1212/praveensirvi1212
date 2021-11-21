@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveensirvi1212&label=Profile%20views&color=0e75b6&style=flat" alt="praveensirvi1212" /> </p>
 
-- 👨‍💻 All of my projects are available at [praveensirvi.me](praveensirvi.me)
+- 👨‍💻 Portfolio [praveensirvi.me](praveensirvi.me)
 
 - 📫 How to reach me **choudharysirvi1212@gmail.com**
 
