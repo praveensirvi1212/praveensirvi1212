@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveensirvi1212&label=Profile%20views&color=0e75b6&style=flat" alt="praveensirvi1212" /> </p>
 
-- 👨‍💻 Portfolio [praveensirvi.me](praveensirvi.me)
+- 🔭 I’m currently working on [DevOps Project using git, Jenkins, Ansible and Docker,](https://github.com/praveensirvi1212/webdev)
+
+- 👨‍💻 Portfolio  [praveensirvi.me](praveensirvi.me)
 
 - 📫 How to reach me **choudharysirvi1212@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/praveen-sirvi-515493180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveen sirvi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/praveen sirvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveen sirvi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
