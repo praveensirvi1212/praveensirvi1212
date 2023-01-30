@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveensirvi1212&label=Profile%20views&color=0e75b6&style=flat" alt="praveensirvi1212" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveensirvi1212" alt="praveensirvi1212" /></a> </p>
 
 - 🔭 I’m currently working on [DevOps Project using git, Jenkins, Ansible and Docker,k8s](https://github.com/praveensirvi1212/webdev)
 
